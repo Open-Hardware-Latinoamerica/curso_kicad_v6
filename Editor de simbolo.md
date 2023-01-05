@@ -40,7 +40,7 @@ El nombre del simbolos es importante y existe un acuerdo llamado [KLC Symbols](h
 
 ![](https://i.imgur.com/eBPDzQj.png)
 
-**Nombre del simbolo :** aqui es donde se aplican las *Directrices generales de denominación de símbolos* antes mensionadas.
+**Nombre del simbolo :** aqui es donde se aplican las [[#Directrices generales de denominación de símbolos]] antes mensionadas.
 **Designador por defecto :** Este valor depende del tipo de componente para mas detalles puede ver la seccion  [Designador de referencia de componente](https://klc.kicad.org/symbol/s6/s6.1/)
 
 Los demas valores los dejaremos como estan

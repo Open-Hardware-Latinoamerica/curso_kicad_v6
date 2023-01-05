@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "0aa6d43fa3b83d23",
@@ -131,15 +132,15 @@
   },
   "active": "f311238ba7b7770b",
   "lastOpenFiles": [
-    "Curso kicad V6.md",
     "Editor de esquema.md",
+    "Curso kicad V6.md",
     "Acerca de mi.md",
+    "Freecad.md",
     "README.md",
-    "Plantillas.md",
-    "Inkscape.md",
-    "Editor de hoja.md",
-    "Conversor de imagen.md",
-    "Editor de PCB.md",
-    "Editor de simbolo.md"
+    "Acerca/de/mi 1.md",
+    "Acerca.md",
+    "Acerca/de/mi.md",
+    "Editor de simbolo.md",
+    "Plantillas.md"
   ]
 }

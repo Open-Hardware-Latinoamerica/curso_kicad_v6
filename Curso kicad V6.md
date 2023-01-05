@@ -5,6 +5,13 @@
 2. Ligero
 3. Multiplataforma
 ### Proyector hechos en Kicad
+|      | Nombre producto|
+| ----------- | -----------   |
+| ![](https://i.imgur.com/U0IkFv8.png)|[A64-OLinuXino Olimex](https://github.com/OLIMEX/OLINUXINO/tree/master/HARDWARE/A64-OLinuXino)|
+| ![](https://i.imgur.com/uITFsqo.png) | [CIAA-ACC (HPC)](https://github.com/ciaa/Hardware/tree/master/PCB/ACC/CIAA_ACC)|
+|![](https://i.imgur.com/O9N362t.png)| [NUCO-V](https://github.com/dmitrystu/nuco-v)|
+
+Para ver el listado completo pueden ir a la web [hecho con kicad](https://www.kicad.org/made-with-kicad/)
 
 ### Elementos de kicad
 
@@ -70,8 +77,6 @@ La PCB se realizara en 2 capas con tamano minimo de componente de 0603, consider
 De esta foma se garantiza que los componentes se puedan soldar facilmente.
 
 ## [[Acerca de mi]]
-
-
 
 
 ## Sigueinte tema: [[Editor de esquema]]
