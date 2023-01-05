@@ -3,7 +3,7 @@
 
 ## Partes de la ventana de edicion de simbolos. 
 
-![](https://i.imgur.com/fWiLHZw.png)
+![](https://i.imgur.com/1Mlgmko.png)
 
 ##  ![[Crear entorno local]]
 ## Crear nuevo libreria
@@ -37,3 +37,19 @@ El nombre del simbolos es importante y existe un acuerdo llamado [KLC Symbols](h
 7.  Cualquier modificación del símbolo original, indicado agregando el motivo
     1.  Diferente orden de pines - `Q_NPN_CBE`,`Q_NPN_BCE`
     2.  Para variantes de unidades múltiples de símbolos típicamente de una sola unidad, agregue el sufijo`_Split`
+
+![](https://i.imgur.com/eBPDzQj.png)
+
+**Nombre del simbolo :** aqui es donde se aplican las *Directrices generales de denominación de símbolos* antes mensionadas.
+**Designador por defecto :** Este valor depende del tipo de componente para mas detalles puede ver la seccion  [Designador de referencia de componente](https://klc.kicad.org/symbol/s6/s6.1/)
+
+Los demas valores los dejaremos como estan
+
+### Requerimientos generales del dibujo
+1. Debe estar centrado
+2. La regilla debe estar en 1.27mm (50mil)
+3. El cuerpo del símbolo debe tener un ancho de línea de `10mil`( `0.254mm`)
+
+### Funcion de pines y ubicacion
+
+La funcion de los pines debe estar de acuerdo a la funcion que cumplen en el componente, por ejemplo la entrada de potencia debe estar como `input_power` pines GPIO de un MCU por ejemplo debe estar como `biderectional` 
