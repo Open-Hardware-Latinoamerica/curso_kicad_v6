@@ -46,6 +46,8 @@ Si no se hace un alcance del proyecto se corre el riesgo que el proyecto nunca t
 
 Yo recomiendo usar [[Inkscape]] para realizar este tipo de esquemas, se pueden realizar diagrama de bloque con los detalles y es facil de entenderlo por todos los integrantes del grupo.
 
+![Esquema del alcance](images/esuquema_curso_kicad_v6.svg)
+
 Otro cosa que se puede viasular aqui es, como quiero que se vea mi PCB o mi producto final, debo acegurarme que la ubicacion de los botones  leds tiene una ubicacion ergonimica para el usuario final, en caso que el proyecto lleve una carsada eso ayudara mucho cuando se disene la carcasa.
 
 ### Reciclaje de componentes
