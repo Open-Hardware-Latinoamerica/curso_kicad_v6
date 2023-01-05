@@ -1,10 +1,10 @@
-Hola como estos
-[[Editor de simbolos]]
+[[Editor de simbolo]]
 [[Editor de footprint]]
-[[Esquemático]] 
+[[Editor de esquema]]
 [[Editor de formato]]
 [[Plantillas]]
 [[Calculadora]]
 [[Gerber view]]
 [[Pluging]]
 
+![](https://i.imgur.com/RCOImkz.png)

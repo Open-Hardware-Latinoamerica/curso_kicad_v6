@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Curso kicad V6.md",
+                "file": "Importar simbolo.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Curso kicad V6.md",
+                "file": "Importar simbolo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Curso kicad V6.md",
+                "file": "Importar simbolo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Curso kicad V6.md"
+                "file": "Importar simbolo.md"
               }
             }
           }
@@ -147,5 +147,12 @@
     }
   },
   "active": "8faa203d00638338",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Editor de simbolo.md",
+    "Configuracion de variable de entorno.md",
+    "Crear entorno local.md",
+    "Partees.md",
+    "Curso kicad V6.md",
+    "Editor de esquema.md"
+  ]
 }
