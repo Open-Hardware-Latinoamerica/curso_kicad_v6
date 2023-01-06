@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "bd2d2435c70ff5c3",
+        "id": "91149dfba2fe4ec3",
         "type": "tabs",
         "children": [
           {
-            "id": "f311238ba7b7770b",
+            "id": "8f954adc1987595e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Curso kicad V6.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "0aa6d43fa3b83d23",
@@ -87,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Curso kicad V6.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Curso kicad V6.md"
+                "file": "README.md"
               }
             }
           }
@@ -130,17 +129,17 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "f311238ba7b7770b",
+  "active": "8f954adc1987595e",
   "lastOpenFiles": [
-    "Editor de esquema.md",
-    "Curso kicad V6.md",
-    "Acerca de mi.md",
-    "Freecad.md",
     "README.md",
-    "Acerca/de/mi 1.md",
-    "Acerca.md",
-    "Acerca/de/mi.md",
+    "assets/Pasted_image_20230105095828.png",
+    "Gerber view.md",
     "Editor de simbolo.md",
-    "Plantillas.md"
+    "Editor de esquema.md",
+    "Configurar editor de esquema.md",
+    "Crear entorno local.md",
+    "Editor de hoja.md",
+    "Curso kicad V6.md",
+    "Crear nuevo footprint.md"
   ]
 }

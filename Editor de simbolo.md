@@ -1,11 +1,10 @@
-[[Importar simbolo]]
-[[Sincronizar con github]]
+[Importar simbolo](Importar%20simbolo.md)
+[Sincronizar con github](Sincronizar%20con%20github.md)
 
 ## Partes de la ventana de edicion de simbolos. 
 
 ![](https://i.imgur.com/1Mlgmko.png)
 
-##  ![[Crear entorno local]]
 ## Crear nuevo libreria
 
 Para crear un simbolo es necesario crear una nueva libreria en un entorno local, si eres una persona que se dedica o se va a dedicar al diseno de PCB aconsejo que se crea una biblioteca por cada categoria de componentes ademas de agregar un prefijo personal, por ejemplo:
@@ -15,7 +14,7 @@ Para crear un simbolo es necesario crear una nueva libreria en un entorno local,
 * mr_Microcontroladores
 * mr_Conectores
 
-De esta forma sera mas facil mantenerlas cuando se quiera [[Sincronizar con github]] y no se corre el riesgo de que se puedan llamar igual a las libririas por defecto.
+De esta forma sera mas facil mantenerlas cuando se quiera [Sincronizar con github](Sincronizar%20con%20github.md) y no se corre el riesgo de que se puedan llamar igual a las libririas por defecto.
 
 ## Crear Simbolo
 
@@ -46,6 +45,7 @@ El nombre del simbolos es importante y existe un acuerdo llamado [KLC Symbols](h
 Los demas valores los dejaremos como estan
 
 ### Requerimientos generales del dibujo
+
 1. Debe estar centrado
 2. La regilla debe estar en 1.27mm (50mil)
 3. El cuerpo del símbolo debe tener un ancho de línea de `10mil`( `0.254mm`)
@@ -53,3 +53,7 @@ Los demas valores los dejaremos como estan
 ### Funcion de pines y ubicacion
 
 La funcion de los pines debe estar de acuerdo a la funcion que cumplen en el componente, por ejemplo la entrada de potencia debe estar como `input_power` pines GPIO de un MCU por ejemplo debe estar como `biderectional` 
+
+## Agregar modelo 3D
+
+Solo se debe [Agregar modelo 3D](Agregar%20modelo%203D.md) cuando el componente es unico y no tiene variaciones, en caso contrario se debe dejar el campo en blanco y completarse en el edito de esquema

@@ -1,10 +1,18 @@
 * Crear Carpeta llamada **componentes_kicad_v6**
-* Dentro de la carpeta **componentes_kicad_v6** crear 3 carpetas mas
-	* Symbolos
-	* Footprints
-	* 3dModel
-* Crear variables de entorno
-Esto se debe hacer para mantner consistencias al abir el proyecto computadoras distintas
+## Carpetas de bibliotecas
+Necesitamos crear varias carpertas para almacenar las distintintas libreias y plantillas creadas, esta carpetas las vamos a llamar:
 
-![](https://i.imgur.com/pWnHciM.png)
+1. Symbolos
+2. Footprints
+3. 3dModel
+4. Templates
+
+## Crear variables de entorno
+Esto se debe hacer para mantener consistencias al abir el proyecto computadoras distintas, estas varibles las vamos a llamar:
+
+SYMBOL_OHLA
+FOOTPRINT_OHLA
+3DMODEL_OHLA
+TEMPLATE_OHLA
+
  

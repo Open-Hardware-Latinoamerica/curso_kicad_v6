@@ -15,15 +15,15 @@ Para ver el listado completo pueden ir a la web [hecho con kicad](https://www.ki
 
 ### Elementos de kicad
 
-* [[Editor de esquema]]
-* [[Editor de simbolo]]
-* [[Editor de PCB]]
-* [[Editor de footprint]]
-* [[Gerber view]]
-* [[Conversor de imagen]]
-* [[Calculadora]]
-* [[Editor de hoja]]
-* [[Pluging]]
+* Editor de esquema
+* Editor de simbolo
+* [Editor de PCB](Editor%20de%20PCB.md)
+* [Editor de footprint](Editor%20de%20footprint.md)
+* [Gerber view](Gerber%20view.md)
+* [Conversor de imagen](Conversor%20de%20imagen.md)
+* [Calculadora](Calculadora.md)
+* Editor de hoja
+* [Pluging](Pluging.md)
 
 ![](https://i.imgur.com/RCOImkz.png)
 
@@ -51,9 +51,9 @@ Los perifericos disponibles seran:
 ### Acotar el alcance
 Si no se hace un alcance del proyecto se corre el riesgo que el proyecto nunca termine debido a que siempre se van a querer agregar funciones, es por esta razon que lo mas recomendable es tomarse un tiempo para dibujar que es lo que se quiere en el proyecto, discutirlo con el equipo de trabajo o cliente. 
 
-Yo recomiendo usar [[Inkscape]] para realizar este tipo de esquemas, se pueden realizar diagrama de bloque con los detalles y es facil de entenderlo por todos los integrantes del grupo.
+Yo recomiendo usar [Inkscape](Inkscape.md) para realizar este tipo de esquemas, se pueden realizar diagrama de bloque con los detalles y es facil de entenderlo por todos los integrantes del grupo.
 
-![Esquema del alcance](images/esuquema_curso_kicad_v6.svg)
+![Esquema del alcance](assets/esuquema_curso_kicad_v6.svg)
 
 Otro cosa que se puede viasular aqui es, como quiero que se vea mi PCB o mi producto final, debo acegurarme que la ubicacion de los botones  leds tiene una ubicacion ergonimica para el usuario final, en caso que el proyecto lleve una carsada eso ayudara mucho cuando se disene la carcasa.
 
@@ -76,8 +76,10 @@ La PCB se realizara en 2 capas con tamano minimo de componente de 0603, consider
 
 De esta foma se garantiza que los componentes se puedan soldar facilmente.
 
-## [[Acerca de mi]]
+## [Acerca de mi](Acerca%20de%20mi.md) 
+
+## Comenzamos con el [Editor de esquema](Editor%20de%20esquema.md)
 
 
-## Sigueinte tema: [[Editor de esquema]]
+
 
