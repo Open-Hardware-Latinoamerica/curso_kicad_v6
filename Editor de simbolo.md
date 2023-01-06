@@ -1,5 +1,4 @@
 [Importar simbolo](Importar%20simbolo.md)
-[Sincronizar con github](Sincronizar%20con%20github.md)
 
 ## Partes de la ventana de edicion de simbolos. 
 
@@ -7,7 +6,7 @@
 
 ## Crear nuevo libreria
 
-Para crear un simbolo es necesario crear una nueva libreria en un entorno local, si eres una persona que se dedica o se va a dedicar al diseno de PCB aconsejo que se crea una biblioteca por cada categoria de componentes ademas de agregar un prefijo personal, por ejemplo:
+Para crear un simbolo es necesario crear una nueva libreria en un entorno local de simbolos, si eres una persona que se dedica o se va a dedicar al diseno de PCB aconsejo que se crea una biblioteca por cada categoria de componentes ademas de agregar un prefijo personal, por ejemplo:
 
 * mr_Fuentes conmutadas
 * mr_Encoders
@@ -40,6 +39,7 @@ El nombre del simbolos es importante y existe un acuerdo llamado [KLC Symbols](h
 ![](https://i.imgur.com/eBPDzQj.png)
 
 **Nombre del simbolo :** aqui es donde se aplican las [[#Directrices generales de denominación de símbolos]] antes mensionadas.
+
 **Designador por defecto :** Este valor depende del tipo de componente para mas detalles puede ver la seccion  [Designador de referencia de componente](https://klc.kicad.org/symbol/s6/s6.1/)
 
 Los demas valores los dejaremos como estan
@@ -57,3 +57,5 @@ La funcion de los pines debe estar de acuerdo a la funcion que cumplen en el com
 ## Agregar modelo 3D
 
 Solo se debe [Agregar modelo 3D](Agregar%20modelo%203D.md) cuando el componente es unico y no tiene variaciones, en caso contrario se debe dejar el campo en blanco y completarse en el edito de esquema
+
+Volver a [Editor de esquema](Editor%20de%20esquema.md)

@@ -33,4 +33,7 @@ yo recomiendo usar solo 2 timpos de formatos, el formato A4 y el formato A3 y si
 
 ### Configuracion hoja de dibujo
 
-Configuramos un formato de hoja segun norma ANSIS o ISO para colocar los detalles antes mensionados, esto lo haremos usando [[Crear entorno local|variables de entorno]] y la hoja la editaremos con el [[Editor de hoja]] y quedara como plantilla para proyectos futuros 
+Configuramos un formato de hoja segun norma ANSIS o ISO para colocar los detalles antes mensionados, esto lo haremos usando variables de entorno y la hoja la editaremos con el [[Editor de hoja]] y quedara como plantilla para proyectos futuros 
+
+### Volver al [Editor de esquema](Editor%20de%20esquema.md)
+

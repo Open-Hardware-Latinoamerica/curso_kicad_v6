@@ -14,3 +14,6 @@ Soy usuario de linux y entusiasta del softawew libre, siempre que exista una sol
 
 He desarrollado mi [blog personal](https://maykolrey.com) usanso Vuejs como framework, tengo un canal de [youtube](https://www.youtube.com/channel/UCuCl93NjLSbGbJEF4IzGWRg) donde enseno cosas relacionadas a la electronica y bueno tambien soy miembro  del grupo de telegram [Open Hardware LA](https://t.me/openhardwarelatinoamerica)|
 
+### Volver al [Curso kicad V6](Curso%20kicad%20V6.md)
+
+

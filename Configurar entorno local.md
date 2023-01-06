@@ -1,4 +1,7 @@
-* Crear Carpeta llamada **componentes_kicad_v6**
+## Crear Carpeta llamada 
+
+componentes_kicad_v6
+
 ## Carpetas de bibliotecas
 Necesitamos crear varias carpertas para almacenar las distintintas libreias y plantillas creadas, esta carpetas las vamos a llamar:
 
@@ -15,4 +18,7 @@ FOOTPRINT_OHLA
 3DMODEL_OHLA
 TEMPLATE_OHLA
 
+## Cambiar tema
+
+## Volver a la [Suit kicad](Suit%20kicad.md)
  

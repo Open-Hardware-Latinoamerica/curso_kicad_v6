@@ -1,9 +1,11 @@
 ## Introduccion 
 
 ### Porque usar Kicad?
+
 1. Libre
 2. Ligero
 3. Multiplataforma
+
 ### Proyector hechos en Kicad
 |      | Nombre producto|
 | ----------- | -----------   |
@@ -13,19 +15,7 @@
 
 Para ver el listado completo pueden ir a la web [hecho con kicad](https://www.kicad.org/made-with-kicad/)
 
-### Elementos de kicad
 
-* Editor de esquema
-* Editor de simbolo
-* [Editor de PCB](Editor%20de%20PCB.md)
-* [Editor de footprint](Editor%20de%20footprint.md)
-* [Gerber view](Gerber%20view.md)
-* [Conversor de imagen](Conversor%20de%20imagen.md)
-* [Calculadora](Calculadora.md)
-* Editor de hoja
-* [Pluging](Pluging.md)
-
-![](https://i.imgur.com/RCOImkz.png)
 
 ## Alcance del curso
 
@@ -78,7 +68,10 @@ De esta foma se garantiza que los componentes se puedan soldar facilmente.
 
 ## [Acerca de mi](Acerca%20de%20mi.md) 
 
-## Comenzamos con el [Editor de esquema](Editor%20de%20esquema.md)
+[Suit kicad](Suit%20kicad.md)
+
+
+
 
 
 
