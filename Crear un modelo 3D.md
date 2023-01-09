@@ -1,1 +1,0 @@
-Para crear un modelo 3D se debe usar [[Freecad]] como herramienta de modelado 3D
